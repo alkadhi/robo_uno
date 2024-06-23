@@ -1,0 +1,3 @@
+/media/alkadhi/TOSHIBA_EXT/PROJECTS/robo_uno/test/test/CMakeFiles/DisplayImage.dir
+/media/alkadhi/TOSHIBA_EXT/PROJECTS/robo_uno/test/test/CMakeFiles/edit_cache.dir
+/media/alkadhi/TOSHIBA_EXT/PROJECTS/robo_uno/test/test/CMakeFiles/rebuild_cache.dir
