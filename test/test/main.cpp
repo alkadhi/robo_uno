@@ -28,8 +28,8 @@ int main(int argc, char** argv )
  printf("No image data \n");
  return -1;
  }
- namedWindow("Display Image", WINDOW_AUTOSIZE );
- imshow("Display Image", image);
+ namedWindow("BING BONG", WINDOW_AUTOSIZE );
+ imshow("BING BONG", image);
 
  waitKey(0);
 
